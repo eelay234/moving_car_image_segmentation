@@ -1,4 +1,4 @@
-# moving_car_image_segmentation
+# Moving Car Image Segmentation
 Moving car images were detected by using segmentation method. 
 
 Input is the video with moving cars' images.
