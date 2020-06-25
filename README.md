@@ -3,6 +3,7 @@ Moving car images were detected by using segmentation method.
 
 **Input:**
     the video with moving cars' images.
+
 **Output:**
     the video of segmentation results.
 
